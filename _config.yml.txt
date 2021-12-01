@@ -1,0 +1,5 @@
+url: "http://danilosantos.github.io"
+baseurl: ""
+
+title: Danilo Santos
+description: Página Pessoal Danilo
